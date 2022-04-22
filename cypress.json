@@ -1,0 +1,4 @@
+{
+   "baseUrl" : "http://next.privat24.ua",
+   "ignoreTestFiles" : "**/example/*"
+}
